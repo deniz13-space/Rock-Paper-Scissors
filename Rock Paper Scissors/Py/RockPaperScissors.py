@@ -1,7 +1,6 @@
 import random
    
 def a():
-
     print(("-" * 21) + "\nRock, Paper, Scissors\n" + ("-" * 21))
 
     user_score, computer_score = 0, 0
@@ -81,5 +80,4 @@ def a():
         if user_choice == "4":
             
             break
-      
 a()
