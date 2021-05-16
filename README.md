@@ -1,4 +1,3 @@
-# Rock-Paper-Scissors
-basic
-Sadece Gir ve Çalıştır
-Just Do it
+Okul için bir ödev
+
+A homework for school
